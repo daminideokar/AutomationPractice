@@ -38,11 +38,13 @@ public class RegistrationPage {
 		
 		genderRadioButton.click();
 		
+		System.out.println("Ragistration page");
 
-		FirstnameTextBox.sendKeys("supriya");
+		FirstnameTextBox.sendKeys("kalyani");
 
 		LastnameTextBox.sendKeys("gadad");
-
+		
+		System.out.println("Ragistration page");
 	
 		passwordTextBox.sendKeys("sggg");
 

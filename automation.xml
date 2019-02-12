@@ -22,4 +22,11 @@
 			<class name="my.auto.com.AutomationPractice.MaintestNg" />
 		</classes>
 	</test> <!-- Test -->
+	
+	<test name="Test4">
+		<parameter name="browserName" value="chrome"></parameter>
+		<classes>
+			<class name="my.auto.com.AutomationPractice.MaintestNg" />
+		</classes>
+	</test> <!-- Test -->
 </suite> <!-- Suite -->

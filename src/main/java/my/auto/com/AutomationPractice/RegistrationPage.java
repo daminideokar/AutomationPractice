@@ -38,6 +38,7 @@ public class RegistrationPage {
 		
 		genderRadioButton.click();
 		
+		System.out.println("Ragistration page");
 
 		FirstnameTextBox.sendKeys("supriya");
 

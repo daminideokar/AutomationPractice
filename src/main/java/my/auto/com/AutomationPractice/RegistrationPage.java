@@ -38,7 +38,7 @@ public class RegistrationPage {
 		
 		genderRadioButton.click();
 		
-		FirstnameTextBox.sendKeys("Damini");
+		FirstnameTextBox.sendKeys("Kalyani");
 
 		LastnameTextBox.sendKeys("Deokar");
 

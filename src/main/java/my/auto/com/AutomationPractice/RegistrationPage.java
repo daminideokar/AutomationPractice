@@ -38,12 +38,12 @@ public class RegistrationPage {
 		
 		genderRadioButton.click();
 		
-		FirstnameTextBox.sendKeys("Siddhant");
+		FirstnameTextBox.sendKeys("Damini");
 
-		LastnameTextBox.sendKeys("Chatur");
+		LastnameTextBox.sendKeys("Deokar");
 
 	
-		passwordTextBox.sendKeys("salmankahnkick");
+		passwordTextBox.sendKeys("damini");
 
 		Select DayButton = new Select(selectDay);
 		DayButton.selectByIndex(23);

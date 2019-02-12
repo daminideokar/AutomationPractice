@@ -34,6 +34,8 @@ public class RegistrationPage {
 	}
 	public void registration() {
 		
+		System.out.println("Ragistration page");
+		
 		genderRadioButton.click();
 		
 		FirstnameTextBox.sendKeys("Damini");

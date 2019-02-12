@@ -37,15 +37,11 @@ public class RegistrationPage {
 		System.out.println("Ragistration page");
 		
 		genderRadioButton.click();
-		
-		System.out.println("Ragistration page");
 
-		FirstnameTextBox.sendKeys("kalyani");
+		FirstnameTextBox.sendKeys("Damini");
 
 		System.out.println("welcome ");
 		LastnameTextBox.sendKeys("gadad");
-		
-		System.out.println("Ragistration page");
 	
 		passwordTextBox.sendKeys("sggg");
 

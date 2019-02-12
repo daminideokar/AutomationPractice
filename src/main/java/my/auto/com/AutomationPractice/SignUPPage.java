@@ -26,7 +26,7 @@ public class SignUPPage {
 		
 		SigninButton.click();
 
-		EmailaddressTextBox.sendKeys("siddhant123chatur@gmail.com");
+		EmailaddressTextBox.sendKeys("siddhant456chatur@gmail.com");
 
 		CreateanaccountButton.click();
 	}

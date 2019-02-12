@@ -59,6 +59,7 @@ public class MaintestNg {
 
 	@AfterTest
 	public void afterTest() {
+		System.out.println("Close Page");
 		Driver.quit();
 	}
 

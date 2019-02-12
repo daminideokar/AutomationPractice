@@ -34,14 +34,16 @@ public class RegistrationPage {
 	}
 	public void registration() {
 		
+		System.out.println("Ragistration page");
+		
 		genderRadioButton.click();
 		
-		FirstnameTextBox.sendKeys("Damini");
+		FirstnameTextBox.sendKeys("supriya");
 
-		LastnameTextBox.sendKeys("Deokar");
+		LastnameTextBox.sendKeys("gadad");
 
 	
-		passwordTextBox.sendKeys("damini");
+		passwordTextBox.sendKeys("sggg");
 
 		Select DayButton = new Select(selectDay);
 		DayButton.selectByIndex(23);
